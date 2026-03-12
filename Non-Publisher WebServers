@@ -3,7 +3,8 @@ Instance holding table, And all of the properties of the instances. This allows 
 containing Roblox game data, However they want. So to seperate Publisher from Non-Publisher,
 Every external application via WebServer that mainly utilizes ported CardboardStudio data, Must have the WebServer's URL and Name placed in this list.
 
-Because there are none right now, This is only an Example.
+Because there are none right now, This is only an Example list structure. If you plan to add any, Please follow the structure. Thank you.
 
-(Name): (your webserver)
-Description: Mango Port ports mango.
+(Name): (WebServer)
+Description: (Description)
+Provided by (Roblox username or github username)
