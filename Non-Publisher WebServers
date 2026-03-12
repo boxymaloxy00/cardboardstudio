@@ -1,0 +1,9 @@
+In CardboardStudio, The "Publisher Links" are just WebServers. This means the script is technically just giving the API Key, Part holding table, 
+Instance holding table, And all of the properties of the instances. This allows for external applications to translate entire JSON-Encoded tables
+containing Roblox game data, However they want. So to seperate Publisher from Non-Publisher,
+Every external application via WebServer that mainly utilizes ported CardboardStudio data, Must have the WebServer's URL and Name placed in this list.
+
+Because there are none right now, This is only an Example.
+
+(Name): (your webserver)
+Description: Mango Port ports mango.
